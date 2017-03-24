@@ -15,4 +15,4 @@ tortas
 pizza
 ----
 Give a honest opinion of this test.  👍 or 👎 will suffice.
-
+The hands-on tasks (Git, Jira) are good.
