@@ -1,7 +1,15 @@
 # CISC210Midterm
 ## This is the develop branch version of the file.
-Add five bands, or songs, that are your favorite.
+Closing Time - Semisonic
+How Can I Say - Day6
+Between Us - CNBlue
+What I Got - Sublime
+Sails To The Wind - Dirty Heads
 ----
-Add five foods you like.
+Hamburgers
+Pizza
+Pasta
+Jjajjangmyeon
+Gimbap
 ----
-Give a honest opinion of this test.  👍 or 👎 will suffice.
+👍.
